@@ -1,0 +1,7 @@
+# ignore object files
+*.o
+*.d
+
+# project managment
+*.uvguix.AIBIT
+*.map
